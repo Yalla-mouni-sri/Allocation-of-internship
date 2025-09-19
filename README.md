@@ -51,10 +51,6 @@ Data Storage: CSV-based job & application database
 
 Other: datetime, os for system handling
 
-⚙️ Installation & Usage
-# Clone repo
-git clone https://github.com/your-username/internship-matcher.git
-cd internship-matcher
 
 # Install dependencies
 pip install -r requirements.txt
