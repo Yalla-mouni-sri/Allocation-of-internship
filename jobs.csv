@@ -1,0 +1,11 @@
+job_id,organization,role,skills_required,location,sector
+1,TechCorp,Data Analyst,"Python, SQL, Excel, Data Analysis",Hyderabad,IT
+2,HealthPlus,ML Engineer,"Python, TensorFlow, Machine Learning, Statistics",Bangalore,Healthcare
+3,FinServe,Backend Developer,"Java, Spring, SQL, REST APIs",Chennai,Finance
+4,AgriTech,Field Officer,"Agriculture Basics, Communication, Surveying",Vizag,Agriculture
+5,InnoSoft,Full Stack Developer,"JavaScript, React, Node.js, SQL",Hyderabad,IT
+6,GreenPower,Energy Analyst,"Energy Modeling, Python, MATLAB, Data Analysis",Pune,Energy
+7,TeachWell,Educational Content Writer,"Content Writing, Curriculum, Communication",Kolkata,Education
+8,ShopEase,Retail Analyst,"Excel, SQL, Retail Analytics, PowerBI",Mumbai,Retail
+9,AutoMakers,Quality Engineer,"Manufacturing Processes, Quality Assurance, AutoCAD",Ahmedabad,Manufacturing
+10,CivicWorks,Urban Planner Intern,"GIS, Urban Planning, Data Analysis",Lucknow,Government

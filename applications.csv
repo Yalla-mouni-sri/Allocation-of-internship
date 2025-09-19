@@ -1,0 +1,3 @@
+application_id,timestamp,candidate_name,candidate_email,candidate_skills,preferred_location,preferred_sector,job_id,job_title,organization
+app_1758000001_2,2025-09-16T10:50:01.779699+00:00,,mouni@gmail.com,"Python, ML",hyderabad,it,2,ML Engineer,HealthPlus
+app_1758000023_1,2025-09-16T10:50:23.674480+00:00,,mouni@gmail.com,"Python, ML",hyderabad,it,1,Data Analyst,TechCorp
